@@ -1,0 +1,73 @@
+# 本来能直连的站点
+# 被误判或担心被误判成为海外站点
+# 需要我们自己手动添加为白名单
+# 「强制直连以下站点」
+#     规则类型↓
+# DOMAIN: 完全匹配域名
+# DOMAIN-SUFFIX: 匹配域名后缀
+# DOMAIN-KEYWORD: 关键词匹配域名
+# GEOIP: IP地理位置 (国家代码)
+# IP-ASN: 匹配 IP 自治系统编号
+# IP-CIDR: 匹配IPv4地址段
+# IP-CIDR6: 匹配IPv6地址段
+# SRC-IP-CIDR: 源IP段地址
+# SRC-PORT: 源端口
+# DST-PORT: 目标端口
+# PROCESS-NAME: 源进程名
+# PROCESS-PATH: 源进程路径
+# IPSET: IP集
+# RULE-SET: 规则集
+# SCRIPT: 脚本
+# MATCH: 全匹配
+#     书写规范↓
+# 类型,参数
+#     常用↓
+# - DOMAIN,
+# - DOMAIN-SUFFIX,
+# - DOMAIN-KEYWORD,
+# - IP-CIDR,
+
+payload:
+
+- DOMAIN,www.chongcong.cc
+
+# PT / BT
+- SRC-PORT,45339
+- DOMAIN-KEYWORD,tracker
+
+- DOMAIN-SUFFIX,m-team.cc
+- DOMAIN-SUFFIX,hdsky.me
+- DOMAIN-SUFFIX,springsunday.net
+- DOMAIN-SUFFIX,hdhome.org
+- DOMAIN-SUFFIX,hdarea.club
+- DOMAIN-SUFFIX,hdarea.club
+- DOMAIN-SUFFIX,nanyangpt.com
+- DOMAIN-SUFFIX,hdtime.org
+- DOMAIN-SUFFIX,ptchdbits.co
+- DOMAIN-SUFFIX,hdchina.org
+- DOMAIN-SUFFIX,hhanclub.top
+- DOMAIN-SUFFIX,keepfrds.com
+- DOMAIN-SUFFIX,open.cd
+- DOMAIN-SUFFIX,ourbits.club
+- DOMAIN-SUFFIX,pterclub.com
+- DOMAIN-SUFFIX,totheglory.im
+- DOMAIN-SUFFIX,audiences.me
+
+- DOMAIN,tracker.leechers-paradise.org:6969/announce
+- DOMAIN,tracker.openbittorrent.com:1337/announce
+- DOMAIN,tracker.coppersurfer.tk:6969/announce
+- DOMAIN,tracker.opentrackr.org:1337/announce
+- DOMAIN,open.stealth.si:80/announce/announce
+- DOMAIN,tracker.torrent.eu.org:451/announce
+- DOMAIN,racker.tiny-vps.com:6969/announce
+- DOMAIN,tracker.dler.org:6969/announce
+- DOMAIN,zephir.monocul.us:6969/announce
+- DOMAIN,exodus.desync.com:6969/announce
+- DOMAIN,opentor.org:2710/announce
+- DOMAIN,rutracker.ru/bt/announce.php?uk=sXc6ApQ2C0
+- DOMAIN,retracker.local/announce
+
+# 其它
+- DOMAIN-SUFFIX,hostloc.com
+
+

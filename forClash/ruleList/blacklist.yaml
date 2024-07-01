@@ -1,0 +1,34 @@
+# 无法直连的站点
+# 被误判或担心被误判成为国内站点
+# 需要我们自己手动添加为黑名单
+# 「强制代理以下站点」
+#     规则类型↓
+# DOMAIN: 完全匹配域名
+# DOMAIN-SUFFIX: 匹配域名后缀
+# DOMAIN-KEYWORD: 关键词匹配域名
+# GEOIP: IP地理位置 (国家代码)
+# IP-ASN: 匹配 IP 自治系统编号
+# IP-CIDR: 匹配IPv4地址段
+# IP-CIDR6: 匹配IPv6地址段
+# SRC-IP-CIDR: 源IP段地址
+# SRC-PORT: 源端口
+# DST-PORT: 目标端口
+# PROCESS-NAME: 源进程名
+# PROCESS-PATH: 源进程路径
+# IPSET: IP集
+# RULE-SET: 规则集
+# SCRIPT: 脚本
+# MATCH: 全匹配
+#     书写规范↓
+# 类型,参数
+#     常用↓
+# - DOMAIN,
+# - DOMAIN-SUFFIX,
+# - DOMAIN-KEYWORD,
+# - IP-CIDR,
+
+payload:
+
+- DOMAIN-SUFFIX,ygxz.in
+- DOMAIN-SUFFIX,v2ex.com
+

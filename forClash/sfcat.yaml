@@ -1,0 +1,42 @@
+#适用于私房菜
+#如果不用私房菜
+#使用请将策略改成你拥有的策略组
+#     规则类型↓
+# DOMAIN: 完全匹配域名
+# DOMAIN-SUFFIX: 匹配域名后缀
+# DOMAIN-KEYWORD: 关键词匹配域名
+# GEOIP: IP地理位置 (国家代码)
+# IP-ASN: 匹配 IP 自治系统编号
+# IP-CIDR: 匹配IPv4地址段
+# IP-CIDR6: 匹配IPv6地址段
+# SRC-IP-CIDR: 源IP段地址
+# SRC-PORT: 源端口
+# DST-PORT: 目标端口
+# PROCESS-NAME: 源进程名
+# PROCESS-PATH: 源进程路径
+# IPSET: IP集
+# RULE-SET: 规则集
+# SCRIPT: 脚本
+# MATCH: 全匹配
+#     规则策略↓
+# DIRECT: 通过 interface-name 直接连接到目标 (不查找系统路由表)
+# REJECT: 丢弃数据包
+# Proxy: 将数据包路由到指定的代理服务器
+# Proxy Group: 将数据包路由到指定的策略组
+#     书写规范↓
+# 类型,参数,策略(,no-resolve)
+# no-resolve 选项是可选的, 它用于跳过规则的 DNS 解析
+#     常用↓
+# - DOMAIN,,DIRECT
+# - DOMAIN-SUFFIX,,DIRECT
+# - DOMAIN-KEYWORD,,DIRECT
+# - IP-CIDR,,DIRECT
+
+
+rule-providers:
+  MyWhiteList: {type: http, behavior: classical, interval: 86400, url:,}
+  MyBlackList: {type: http, behavior: classical, interval: 86400, url:,}
+
+rules:
+  - 'RULE-SET,MyWhiteList,DIRECT'
+  - 'RULE-SET,MyBlackList,🏳️‍⚧️ 私房菜'
