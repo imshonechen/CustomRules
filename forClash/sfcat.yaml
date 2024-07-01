@@ -34,8 +34,8 @@
 
 
 rule-providers:
-  MyWhiteList: {type: http, behavior: classical, interval: 86400, url:,}
-  MyBlackList: {type: http, behavior: classical, interval: 86400, url:,}
+  MyWhiteList: {type: http, behavior: classical, interval: 86400, url: 'https://raw.githubusercontent.com/imshonechen/CustomRules/main/forClash/ruleList/Whitelist.yaml' }
+  MyBlackList: {type: http, behavior: classical, interval: 86400, url: 'https://raw.githubusercontent.com/imshonechen/CustomRules/main/forClash/ruleList/blacklist.yaml' }
 
 rules:
   - 'RULE-SET,MyWhiteList,DIRECT'
