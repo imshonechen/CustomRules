@@ -33,8 +33,6 @@ payload:
 
 # PT / BT
 - SRC-PORT,45339
-- DOMAIN-KEYWORD,tracker
-
 - DOMAIN-SUFFIX,m-team.cc
 - DOMAIN-SUFFIX,hdsky.me
 - DOMAIN-SUFFIX,springsunday.net
@@ -67,7 +65,15 @@ payload:
 - DOMAIN,rutracker.ru/bt/announce.php?uk=sXc6ApQ2C0
 - DOMAIN,retracker.local/announce
 
+- DOMAIN-KEYWORD,tracker
 # 其它
 - DOMAIN-SUFFIX,hostloc.com
+
+# 如果一个订阅都走代理，那么他家一定有问题
+
+- DOMAIN,subcdn.cos.cat
+- DOMAIN,mojie.app
+- DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
+- DOMAIN,8y73j9wh8b1.ykkk.best
 
 
