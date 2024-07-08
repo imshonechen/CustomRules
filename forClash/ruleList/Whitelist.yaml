@@ -30,6 +30,8 @@
 payload:
 
 - DOMAIN,www.chongcong.cc
+- DOMAIN-SUFFIX,chongcong.cc
+- DOMAIN-SUFFIX,klimu.com
 
 # PT / BT
 - SRC-PORT,45339
