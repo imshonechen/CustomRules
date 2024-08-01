@@ -41,3 +41,8 @@ payload:
 - DOMAIN-SUFFIX,i3d.net
 - DOMAIN-KEYWORD,speedtest.com
 - DOMAIN-KEYWORD,speedtest.net
+
+- DOMAIN-SUFFIX,azure.com
+- DOMAIN-SUFFIX,azure.net
+- DOMAIN-SUFFIX,microsoft.com
+- DOMAIN-SUFFIX,microsoftonline.com
