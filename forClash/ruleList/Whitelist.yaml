@@ -54,20 +54,20 @@ payload:
 - DOMAIN-SUFFIX,pterclub.com
 - DOMAIN-SUFFIX,totheglory.im
 - DOMAIN-SUFFIX,audiences.me
-
-- DOMAIN,tracker.leechers-paradise.org:6969/announce
-- DOMAIN,tracker.openbittorrent.com:1337/announce
-- DOMAIN,tracker.coppersurfer.tk:6969/announce
-- DOMAIN,tracker.opentrackr.org:1337/announce
-- DOMAIN,open.stealth.si:80/announce/announce
-- DOMAIN,tracker.torrent.eu.org:451/announce
-- DOMAIN,racker.tiny-vps.com:6969/announce
-- DOMAIN,tracker.dler.org:6969/announce
-- DOMAIN,zephir.monocul.us:6969/announce
-- DOMAIN,exodus.desync.com:6969/announce
-- DOMAIN,opentor.org:2710/announce
-- DOMAIN,rutracker.ru/bt/announce.php?uk=sXc6ApQ2C0
-- DOMAIN,retracker.local/announce
+公共tracker没必要
+# - DOMAIN,tracker.leechers-paradise.org:6969/announce
+# - DOMAIN,tracker.openbittorrent.com:1337/announce
+# - DOMAIN,tracker.coppersurfer.tk:6969/announce
+# - DOMAIN,tracker.opentrackr.org:1337/announce
+# - DOMAIN,open.stealth.si:80/announce/announce
+# - DOMAIN,tracker.torrent.eu.org:451/announce
+# - DOMAIN,racker.tiny-vps.com:6969/announce
+# - DOMAIN,tracker.dler.org:6969/announce
+# - DOMAIN,zephir.monocul.us:6969/announce
+# - DOMAIN,exodus.desync.com:6969/announce
+# - DOMAIN,opentor.org:2710/announce
+# - DOMAIN,rutracker.ru/bt/announce.php?uk=sXc6ApQ2C0
+# - DOMAIN,retracker.local/announce
 
 - DOMAIN-KEYWORD,tracker
 # 其它
