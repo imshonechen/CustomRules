@@ -1,3 +1,4 @@
+# https://raw.githubusercontent.com/imshonechen/CustomRules/refs/heads/main/forClash/ruleList/Whitelist.yaml
 # 本来能直连的站点
 # 被误判或担心被误判成为海外站点
 # 需要我们自己手动添加为白名单
@@ -54,7 +55,7 @@ payload:
 - DOMAIN-SUFFIX,pterclub.com
 - DOMAIN-SUFFIX,totheglory.im
 - DOMAIN-SUFFIX,audiences.me
-公共tracker没必要
+# 公共tracker没必要
 # - DOMAIN,tracker.leechers-paradise.org:6969/announce
 # - DOMAIN,tracker.openbittorrent.com:1337/announce
 # - DOMAIN,tracker.coppersurfer.tk:6969/announce
