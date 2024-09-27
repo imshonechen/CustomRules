@@ -70,7 +70,7 @@ payload:
 # - DOMAIN,rutracker.ru/bt/announce.php?uk=sXc6ApQ2C0
 # - DOMAIN,retracker.local/announce
 
-- DOMAIN-KEYWORD,tracker
+# - DOMAIN-KEYWORD,tracker
 # 其它
 - DOMAIN-SUFFIX,hostloc.com
 
