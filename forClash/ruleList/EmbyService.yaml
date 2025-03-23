@@ -28,8 +28,19 @@ payload:
 
 # ykkcloud: 1111
 - DOMAIN-SUFFIX,emby.moe
-#facmata: Peach, 1111, PiliPili, PornEMBY
+
+#facmata: Peach, 1111, PiliPili, PornEMBY，Misty
 - DOMAIN-SUFFIX,makima.online
+- DOMAIN-SUFFIX,313445.xyz
+
+# niceduck:dpx, 1111,JMS
+- DOMAIN-SUFFIX,niceduck.lol
+- DOMAIN-SUFFIX,emby.moe
+
+# acemby
+- DOMAIN-SUFFIX,zox.show
+
+# others
 - DOMAIN-SUFFIX,emby.nexitally.com
 - DOMAIN-SUFFIX,emby.cjpc.cc
 - DOMAIN-SUFFIX,emby.flowercloud.yt
@@ -155,3 +166,4 @@ payload:
 - DOMAIN-SUFFIX,xmsl.org
 - DOMAIN-SUFFIX,9521732.xyz
 - DOMAIN-SUFFIX,misakaf.org
+
