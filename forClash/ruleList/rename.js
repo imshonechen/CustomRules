@@ -1,6 +1,6 @@
 /**
  * 节点名称规范化处理函数
- * @param {{Remark: string, Rate: number}} node - 包含节点名称和倍率的对象
+ * @param {{Remark: string}} node - 包含节点名称和倍率的对象
  * @returns {string} 规范化后的节点名称
  */
 function rename(node) {
