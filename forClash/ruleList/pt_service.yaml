@@ -1,4 +1,4 @@
-# https://raw.githubusercontent.com/imshonechen/CustomRules/refs/heads/main/forClash/ruleList/Whitelist.yaml
+# https://raw.githubusercontent.com/imshonechen/CustomRules/refs/heads/main/forClash/ruleList/pt_service.yaml
 # 本来能直连的站点
 # 被误判或担心被误判成为海外站点
 # 需要我们自己手动添加为白名单
@@ -29,10 +29,6 @@
 # - IP-CIDR,
 
 payload:
-
-- DOMAIN,www.chongcong.cc
-- DOMAIN-SUFFIX,chongcong.cc
-- DOMAIN-SUFFIX,klimu.com
 
 # PT / BT
 - SRC-PORT,45339
@@ -71,16 +67,3 @@ payload:
 # - DOMAIN,retracker.local/announce
 
 # - DOMAIN-KEYWORD,tracker
-# 其它
-- DOMAIN-SUFFIX,hostloc.com
-
-# 如果一个订阅都走代理，那么他家一定有问题
-
-- DOMAIN,subcdn.cos.cat
-- DOMAIN,mojie.app
-- DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
-- DOMAIN,8y73j9wh8b1.ykkk.best
-- DOMAIN,8xn3salcd.ykkk.best
-
-
-

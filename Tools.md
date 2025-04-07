@@ -56,7 +56,7 @@
 | [sing-box](https://github.com/SagerNet/sing-box)             | 维护中   | 18.5k |
 | [Clash.Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) | 维护中   | 13.6k |
 | [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) (谷歌商店版被第三方控制) | 维护中   | 10.9k |
-| [v2rayNG](https://github.com/2dust/v2rayNG)                  | 维护中   | 34.5  |
+| [v2rayNG](https://github.com/2dust/v2rayNG)                  | 维护中   | 34.5k  |
 | [hiddify-next](https://github.com/hiddify/hiddify-next)      | 维护中   | 15.8k |
 | Surfboard                                                    |          |       |
 
@@ -66,7 +66,7 @@
 
 | 名称                                                         | 维护状态 | 价格                              |
 | ------------------------------------------------------------ | -------- | --------------------------------- |
-| [Shadowrocket][https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh] | 维护中   | $2.99                             |
+| [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh) | 维护中   | $2.99                             |
 | [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh) | 维护中   | $7.99                             |
 | [Surge](https://nssurge.com/buy_now)                         | 维护中   | $49.99，一年后更新升级需$14.99/年 |
 | [Loon](https://apps.apple.com/us/app/loon/id1373567447?l=zh) | 维护中   | $5.99                             |

@@ -1,4 +1,4 @@
-# https://raw.githubusercontent.com/imshonechen/CustomRules/refs/heads/main/forClash/ruleList/EmbyService.yaml
+# https://raw.githubusercontent.com/imshonechen/CustomRules/refs/heads/main/forClash/ruleList/emby_service.yaml
 #     规则类型↓
 # DOMAIN: 完全匹配域名
 # DOMAIN-SUFFIX: 匹配域名后缀
@@ -36,7 +36,6 @@ payload:
 
 # niceduck:dpx, 1111,JMS
 - DOMAIN-SUFFIX,niceduck.lol
-- DOMAIN-SUFFIX,emby.moe
 
 # acemby
 - DOMAIN-SUFFIX,zox.show

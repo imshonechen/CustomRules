@@ -1,0 +1,32 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+                "on.springsunday.net",
+                "tracker.hdsky.me",
+                "tracker.hdchina.org",
+                "t.hdhome.org"
+            ],
+            "domain_suffix": [
+                "m-team.cc",
+                "hdsky.me",
+                "springsunday.net",
+                "hdcmct.com",
+                "hdcmct.org",
+                "hdhome.org",
+                "hdarea.club",
+                "nanyangpt.com",
+                "hdtime.org",
+                "hdchina.org",
+                "hhanclub.top",
+                "keepfrds.com",
+                "open.cd",
+                "ourbits.club",
+                "pterclub.com",
+                "totheglory.im",
+                "audiences.me"
+            ]
+        }
+    ]
+}
