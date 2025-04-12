@@ -36,7 +36,7 @@ payload:
 
 
 # 其它
-- DOMAIN-SUFFIX,hostloc.com
+# - DOMAIN-SUFFIX,hostloc.com
 
 # 如果一个订阅都走代理，那么他家一定有问题
 
