@@ -43,8 +43,10 @@ payload:
 - DOMAIN,subcdn.cos.cat
 - DOMAIN,mojie.app
 - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
-- DOMAIN,8y73j9wh8b1.ykkk.best
-- DOMAIN,8xn3salcd.ykkk.best
+- DOMAIN-SUFFIX,ykkk.best
+- DOMAIN-SUFFIX,ykkk.tech
 
 
+
+- DOMAIN-SUFFIX,gifyu.com # 触摸春天用的图床
 
