@@ -52,3 +52,5 @@ payload:
 
 # - DOMAIN-SUFFIX,linux.do # L站走直连不太稳，有时候会卡
 # - DOMAIN,api.deeplx.org # 翻译
+
+- DOMAIN-SUFFIX,91xjr.com # 91小键人
