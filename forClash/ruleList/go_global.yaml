@@ -36,19 +36,19 @@ payload:
 - DOMAIN-SUFFIX,gitbook.io
 - DOMAIN-SUFFIX,yandex.com
 - DOMAIN-SUFFIX,yandex.net
-- DOMAIN-SUFFIX,speedtest.net
-- DOMAIN-SUFFIX,ooklaserver.net
-- DOMAIN-SUFFIX,fdcservers.net
-- DOMAIN-SUFFIX,i3d.net
-- DOMAIN-KEYWORD,speedtest.com
-- DOMAIN-KEYWORD,speedtest.net
+# - DOMAIN-SUFFIX,speedtest.net
+# - DOMAIN-SUFFIX,ooklaserver.net
+# - DOMAIN-SUFFIX,fdcservers.net
+# - DOMAIN-SUFFIX,i3d.net
+# - DOMAIN-KEYWORD,speedtest.com
+# - DOMAIN-KEYWORD,speedtest.net
 
-- DOMAIN-SUFFIX,azure.com
-- DOMAIN-SUFFIX,azure.net
-- DOMAIN-SUFFIX,microsoft.com
-- DOMAIN-SUFFIX,microsoftonline.com
-- DOMAIN-SUFFIX,live.com
-- DOMAIN-SUFFIX,outlook.com
+# - DOMAIN-SUFFIX,azure.com
+# - DOMAIN-SUFFIX,azure.net
+# - DOMAIN-SUFFIX,microsoft.com
+# - DOMAIN-SUFFIX,microsoftonline.com
+# - DOMAIN-SUFFIX,live.com
+# - DOMAIN-SUFFIX,outlook.com
 
 - DOMAIN-SUFFIX,okjc.one
 
