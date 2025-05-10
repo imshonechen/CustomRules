@@ -38,13 +38,13 @@ payload:
 # 其它
 # - DOMAIN-SUFFIX,hostloc.com
 
-# 如果一个订阅都走代理，那么他家一定有问题
+# 如果一个订阅都走代理，那么他家一定有问题，也许是CF的问题
 
-- DOMAIN,subcdn.cos.cat
-- DOMAIN,mojie.app
-- DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
-- DOMAIN-SUFFIX,ykkk.best
-- DOMAIN-SUFFIX,ykkk.tech
+# - DOMAIN,subcdn.cos.cat
+# - DOMAIN,mojie.app
+# - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
+# - DOMAIN-SUFFIX,ykkk.best
+# - DOMAIN-SUFFIX,ykkk.tech
 
 
 

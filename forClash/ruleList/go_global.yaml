@@ -57,3 +57,20 @@ payload:
 - DOMAIN-SUFFIX,qbittorrent.org
 
 - DOMAIN-SUFFIX,hostloc.com
+# 套CF的站点，直连太慢了。250511
+- DOMAIN-SUFFIX,linux.do # L站 走直连不太稳，有时候会卡
+- DOMAIN,api.deeplx.org # L站 翻译
+
+- DOMAIN-SUFFIX,haitunt.org # 海豚
+- DOMAIN-SUFFIX,mojie.app
+- DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
+- DOMAIN-SUFFIX,ykkk.best
+- DOMAIN-SUFFIX,ykkk.tech
+- DOMAIN-SUFFIX,milkcat.io
+- DOMAIN-SUFFIX,nexitally.com
+- DOMAIN-SUFFIX,amytele.net
+- DOMAIN-SUFFIX,immtel.com
+- DOMAIN-SUFFIX,kuromis.com
+- DOMAIN-SUFFIX,dlercloud.com
+- DOMAIN-SUFFIX,flowercloud.net
+- DOMAIN-SUFFIX,wd-gold.com
