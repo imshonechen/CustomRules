@@ -54,3 +54,4 @@ payload:
 # - DOMAIN,api.deeplx.org # 翻译
 
 - DOMAIN-SUFFIX,91xjr.com # 91小键人
+- DOMAIN-SUFFIX,cdn.linux.do
