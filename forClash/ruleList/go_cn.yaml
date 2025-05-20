@@ -55,3 +55,6 @@ payload:
 
 - DOMAIN-SUFFIX,91xjr.com # 91小键人
 - DOMAIN-SUFFIX,cdn.linux.do
+
+# 国内很多平台用的该CDN，如腾讯视频、哔哩哔哩、抖音等
+- DOMAIN-SUFFIX,smtcdns.net
