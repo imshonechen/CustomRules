@@ -98,4 +98,4 @@ payload:
 - DOMAIN-SUFFIX,emby.wiki
 
 # mitm
-- DOMAIN-SUFFIX,,mitm.it
+- DOMAIN-SUFFIX,mitm.it
