@@ -96,3 +96,6 @@ payload:
 # emby
 - DOMAIN-SUFFIX,emby.moe
 - DOMAIN-SUFFIX,emby.wiki
+
+# mitm
+- DOMAIN-SUFFIX,,mitm.it
