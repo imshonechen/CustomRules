@@ -93,9 +93,7 @@ payload:
 - DOMAIN-SUFFIX,tagxx.vip
 - DOMAIN-SUFFIX,bygcloud.com # 白月光
 
-# emby
-- DOMAIN-SUFFIX,emby.moe
-- DOMAIN-SUFFIX,emby.wiki
+
 
 # mitm
 - DOMAIN-SUFFIX,mitm.it
