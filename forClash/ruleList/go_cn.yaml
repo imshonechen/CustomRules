@@ -58,3 +58,5 @@ payload:
 
 # 国内很多平台用的该CDN，如腾讯视频、哔哩哔哩、抖音等
 - DOMAIN-SUFFIX,smtcdns.net
+
+- DOMAIN-SUFFIX,ping0.cc
