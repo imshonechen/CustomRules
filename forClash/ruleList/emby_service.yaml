@@ -171,4 +171,6 @@ payload:
 
 - DOMAIN-SUFFIX,emby.moe
 - DOMAIN-SUFFIX,emby.wiki
+- DOMAIN,cflocal.xxlb.net
+- DOMAIN,ykkplay.xxlb.net
 
