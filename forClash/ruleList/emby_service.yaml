@@ -35,11 +35,18 @@ payload:
 - DOMAIN-SUFFIX,313445.xyz
 
 
-# niceduck:dpx, 1111,JMS
+
 - DOMAIN-SUFFIX,niceduck.lol
 
-# acemby
 - DOMAIN-SUFFIX,zox.show
+- DOMAIN-SUFFIX,3767483.xyz
+
+
+- DOMAIN-SUFFIX,nangua.de
+
+- DOMAIN-SUFFIX,emby.moe
+- DOMAIN-SUFFIX,emby.wiki
+- DOMAIN-SUFFIX,xxlb.net
 
 # others
 - DOMAIN-SUFFIX,emby.nexitally.com
@@ -167,10 +174,8 @@ payload:
 - DOMAIN-SUFFIX,xmsl.org
 - DOMAIN-SUFFIX,9521732.xyz
 - DOMAIN-SUFFIX,misakaf.org
-- DOMAIN-SUFFIX,nangua.de
 
-- DOMAIN-SUFFIX,emby.moe
-- DOMAIN-SUFFIX,emby.wiki
-- DOMAIN,cflocal.xxlb.net
-- DOMAIN,ykkplay.xxlb.net
+
+
+
 
