@@ -30,40 +30,40 @@
 
 payload:
 
-# PT / BT
-- SRC-PORT,45339
-- DOMAIN-SUFFIX,m-team.cc
-- DOMAIN-SUFFIX,hdsky.me
-- DOMAIN-SUFFIX,springsunday.net
-- DOMAIN-SUFFIX,hdcmct.com
-- DOMAIN-SUFFIX,hdcmct.org
-- DOMAIN-SUFFIX,hdhome.org
-- DOMAIN-SUFFIX,hdarea.club
-- DOMAIN-SUFFIX,hdarea.club
-- DOMAIN-SUFFIX,nanyangpt.com
-- DOMAIN-SUFFIX,hdtime.org
-- DOMAIN-SUFFIX,ptchdbits.co
-- DOMAIN-SUFFIX,hdchina.org
-- DOMAIN-SUFFIX,hhanclub.top
-- DOMAIN-SUFFIX,keepfrds.com
-- DOMAIN-SUFFIX,open.cd
-- DOMAIN-SUFFIX,ourbits.club
-- DOMAIN-SUFFIX,pterclub.com
-- DOMAIN-SUFFIX,totheglory.im
-- DOMAIN-SUFFIX,audiences.me
-# 公共tracker没必要
-# - DOMAIN,tracker.leechers-paradise.org:6969/announce
-# - DOMAIN,tracker.openbittorrent.com:1337/announce
-# - DOMAIN,tracker.coppersurfer.tk:6969/announce
-# - DOMAIN,tracker.opentrackr.org:1337/announce
-# - DOMAIN,open.stealth.si:80/announce/announce
-# - DOMAIN,tracker.torrent.eu.org:451/announce
-# - DOMAIN,racker.tiny-vps.com:6969/announce
-# - DOMAIN,tracker.dler.org:6969/announce
-# - DOMAIN,zephir.monocul.us:6969/announce
-# - DOMAIN,exodus.desync.com:6969/announce
-# - DOMAIN,opentor.org:2710/announce
-# - DOMAIN,rutracker.ru/bt/announce.php?uk=sXc6ApQ2C0
-# - DOMAIN,retracker.local/announce
+  # PT / BT
+  - SRC-PORT,45339
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,hdsky.me
+  - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,hdcmct.com
+  - DOMAIN-SUFFIX,hdcmct.org
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hdarea.club
+  - DOMAIN-SUFFIX,hdarea.club
+  - DOMAIN-SUFFIX,nanyangpt.com
+  - DOMAIN-SUFFIX,hdtime.org
+  - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,hdchina.org
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,keepfrds.com
+  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,audiences.me
+  # 公共tracker没必要
+  # - DOMAIN,tracker.leechers-paradise.org:6969/announce
+  # - DOMAIN,tracker.openbittorrent.com:1337/announce
+  # - DOMAIN,tracker.coppersurfer.tk:6969/announce
+  # - DOMAIN,tracker.opentrackr.org:1337/announce
+  # - DOMAIN,open.stealth.si:80/announce/announce
+  # - DOMAIN,tracker.torrent.eu.org:451/announce
+  # - DOMAIN,racker.tiny-vps.com:6969/announce
+  # - DOMAIN,tracker.dler.org:6969/announce
+  # - DOMAIN,zephir.monocul.us:6969/announce
+  # - DOMAIN,exodus.desync.com:6969/announce
+  # - DOMAIN,opentor.org:2710/announce
+  # - DOMAIN,rutracker.ru/bt/announce.php?uk=sXc6ApQ2C0
+  # - DOMAIN,retracker.local/announce
 
-# - DOMAIN-KEYWORD,tracker
+  # - DOMAIN-KEYWORD,tracker

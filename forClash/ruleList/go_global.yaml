@@ -30,70 +30,70 @@
 
 payload:
 
-- DOMAIN-SUFFIX,ygxz.in
-- DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,ygxz.in
+  - DOMAIN-SUFFIX,v2ex.com
 
-- DOMAIN-SUFFIX,gitbook.io
-- DOMAIN-SUFFIX,yandex.com
-- DOMAIN-SUFFIX,yandex.net
-# - DOMAIN-SUFFIX,speedtest.net
-# - DOMAIN-SUFFIX,ooklaserver.net
-# - DOMAIN-SUFFIX,fdcservers.net
-# - DOMAIN-SUFFIX,i3d.net
-# - DOMAIN-KEYWORD,speedtest.com
-# - DOMAIN-KEYWORD,speedtest.net
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yandex.net
+  # - DOMAIN-SUFFIX,speedtest.net
+  # - DOMAIN-SUFFIX,ooklaserver.net
+  # - DOMAIN-SUFFIX,fdcservers.net
+  # - DOMAIN-SUFFIX,i3d.net
+  # - DOMAIN-KEYWORD,speedtest.com
+  # - DOMAIN-KEYWORD,speedtest.net
 
-# - DOMAIN-SUFFIX,azure.com
-# - DOMAIN-SUFFIX,azure.net
-# - DOMAIN-SUFFIX,microsoft.com
-# - DOMAIN-SUFFIX,microsoftonline.com
-# - DOMAIN-SUFFIX,live.com
-# - DOMAIN-SUFFIX,outlook.com
+  # - DOMAIN-SUFFIX,azure.com
+  # - DOMAIN-SUFFIX,azure.net
+  # - DOMAIN-SUFFIX,microsoft.com
+  # - DOMAIN-SUFFIX,microsoftonline.com
+  # - DOMAIN-SUFFIX,live.com
+  # - DOMAIN-SUFFIX,outlook.com
 
-- DOMAIN-SUFFIX,okjc.one
-- DOMAIN,rutracker.ru
-- DOMAIN-SUFFIX,qbittorrent.org
-
-
-# 套CF的站点，直连太慢了。date: 250511
-- DOMAIN-SUFFIX,hostloc.com
-- DOMAIN-SUFFIX,linux.do # L站 走直连不太稳，有时候会卡
-- DOMAIN,api.deeplx.org # L站 翻译
-
-- DOMAIN-SUFFIX,haitunt.org # 海豚
-# 机场
-- DOMAIN-SUFFIX,mojie.app
-- DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
-- DOMAIN-SUFFIX,ykkk.best
-- DOMAIN-SUFFIX,ykkk.tech
-- DOMAIN-SUFFIX,milkcat.io
-- DOMAIN-SUFFIX,nexitally.com
-- DOMAIN-SUFFIX,amytele.net
-- DOMAIN-SUFFIX,immtel.com
-- DOMAIN-SUFFIX,kuromis.com
-- DOMAIN-SUFFIX,dlercloud.com
-- DOMAIN-SUFFIX,flowercloud.net
-- DOMAIN-SUFFIX,wd-gold.com # 西数
-- DOMAIN-SUFFIX,halo.do # 光环
-- DOMAIN-SUFFIX,linkcube.org # 绿叶
-- DOMAIN-SUFFIX,shadowsocks.au # xtom
-- DOMAIN-SUFFIX,jinglongyu.com # CTC
-- DOMAIN-SUFFIX,synn.moe # SYN
-- DOMAIN-SUFFIX,creamdata.net # 奶油
-- DOMAIN-SUFFIX,paoluz.plus # 跑路云
-- DOMAIN-SUFFIX,linkeless.com
-- DOMAIN-SUFFIX,afun.la # 爱翻
-- DOMAIN-SUFFIX,垃圾机场.com # 薯条
-- DOMAIN-SUFFIX,bkcloud.sbs
-- DOMAIN-SUFFIX,y-too.com
-- DOMAIN-SUFFIX,to-ytoo.xyz
-- DOMAIN-SUFFIX,fanrr.net # 繁荣云
-- DOMAIN-SUFFIX,ikuuu.one
-- DOMAIN-SUFFIX,mesl.cloud
-- DOMAIN-SUFFIX,tagxx.vip
-- DOMAIN-SUFFIX,bygcloud.com # 白月光
+  - DOMAIN-SUFFIX,okjc.one
+  - DOMAIN,rutracker.ru
+  - DOMAIN-SUFFIX,qbittorrent.org
 
 
+  # 套CF的站点，直连太慢了。date: 250511
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,linux.do # L站 走直连不太稳，有时候会卡
+  - DOMAIN,api.deeplx.org # L站 翻译
 
-# mitm
-- DOMAIN-SUFFIX,mitm.it
+  - DOMAIN-SUFFIX,haitunt.org # 海豚
+  # 机场
+  - DOMAIN-SUFFIX,mojie.app
+  - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
+  - DOMAIN-SUFFIX,ykkk.best
+  - DOMAIN-SUFFIX,ykkk.tech
+  - DOMAIN-SUFFIX,milkcat.io
+  - DOMAIN-SUFFIX,nexitally.com
+  - DOMAIN-SUFFIX,amytele.net
+  - DOMAIN-SUFFIX,immtel.com
+  - DOMAIN-SUFFIX,kuromis.com
+  - DOMAIN-SUFFIX,dlercloud.com
+  - DOMAIN-SUFFIX,flowercloud.net
+  - DOMAIN-SUFFIX,wd-gold.com # 西数
+  - DOMAIN-SUFFIX,halo.do # 光环
+  - DOMAIN-SUFFIX,linkcube.org # 绿叶
+  - DOMAIN-SUFFIX,shadowsocks.au # xtom
+  - DOMAIN-SUFFIX,jinglongyu.com # CTC
+  - DOMAIN-SUFFIX,synn.moe # SYN
+  - DOMAIN-SUFFIX,creamdata.net # 奶油
+  - DOMAIN-SUFFIX,paoluz.plus # 跑路云
+  - DOMAIN-SUFFIX,linkeless.com
+  - DOMAIN-SUFFIX,afun.la # 爱翻
+  - DOMAIN-SUFFIX,垃圾机场.com # 薯条
+  - DOMAIN-SUFFIX,bkcloud.sbs
+  - DOMAIN-SUFFIX,y-too.com
+  - DOMAIN-SUFFIX,to-ytoo.xyz
+  - DOMAIN-SUFFIX,fanrr.net # 繁荣云
+  - DOMAIN-SUFFIX,ikuuu.one
+  - DOMAIN-SUFFIX,mesl.cloud
+  - DOMAIN-SUFFIX,tagxx.vip
+  - DOMAIN-SUFFIX,bygcloud.com # 白月光
+
+
+
+  # mitm
+  - DOMAIN-SUFFIX,mitm.it

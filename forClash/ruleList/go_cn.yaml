@@ -30,33 +30,33 @@
 
 payload:
 
-- DOMAIN,www.chongcong.cc
-- DOMAIN-SUFFIX,chongcong.cc
-- DOMAIN-SUFFIX,klimu.com
+  - DOMAIN,www.chongcong.cc
+  - DOMAIN-SUFFIX,chongcong.cc
+  - DOMAIN-SUFFIX,klimu.com
 
 
-# 其它
-# - DOMAIN-SUFFIX,hostloc.com
+  # 其它
+  # - DOMAIN-SUFFIX,hostloc.com
 
-# 如果一个订阅都走代理，那么他家一定有问题，也许是CF的问题
+  # 如果一个订阅都走代理，那么他家一定有问题，也许是CF的问题
 
-# - DOMAIN,subcdn.cos.cat
-# - DOMAIN,mojie.app
-# - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
-# - DOMAIN-SUFFIX,ykkk.best
-# - DOMAIN-SUFFIX,ykkk.tech
+  # - DOMAIN,subcdn.cos.cat
+  # - DOMAIN,mojie.app
+  # - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
+  # - DOMAIN-SUFFIX,ykkk.best
+  # - DOMAIN-SUFFIX,ykkk.tech
 
 
 
-- DOMAIN-SUFFIX,gifyu.com # 触摸春天用的图床
+  - DOMAIN-SUFFIX,gifyu.com # 触摸春天用的图床
 
-# - DOMAIN-SUFFIX,linux.do # L站走直连不太稳，有时候会卡
-# - DOMAIN,api.deeplx.org # 翻译
+  # - DOMAIN-SUFFIX,linux.do # L站走直连不太稳，有时候会卡
+  # - DOMAIN,api.deeplx.org # 翻译
 
-- DOMAIN-SUFFIX,91xjr.com # 91小键人
-- DOMAIN-SUFFIX,cdn.linux.do
+  - DOMAIN-SUFFIX,91xjr.com # 91小键人
+  - DOMAIN-SUFFIX,cdn.linux.do
 
-# 国内很多平台用的该CDN，如腾讯视频、哔哩哔哩、抖音等
-- DOMAIN-SUFFIX,smtcdns.net
+  # 国内很多平台用的该CDN，如腾讯视频、哔哩哔哩、抖音等
+  - DOMAIN-SUFFIX,smtcdns.net
 
-- DOMAIN-SUFFIX,ping0.cc
+  - DOMAIN-SUFFIX,ping0.cc
