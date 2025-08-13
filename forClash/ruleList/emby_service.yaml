@@ -26,27 +26,35 @@
 
 payload:
 
-  # ykkcloud: 1111
-  - DOMAIN-SUFFIX,emby.moe
-
-  #facmata: Peach, 1111, PiliPili, PornEMBY，Misty
+  # FAC
   # - DOMAIN-SUFFIX,makima.online
   # - DOMAIN-SUFFIX,jiashule.com
   - DOMAIN-SUFFIX,313445.xyz
 
-
-
-  - DOMAIN-SUFFIX,niceduck.lol
-
+  # zox
   - DOMAIN-SUFFIX,zox.show
   - DOMAIN-SUFFIX,3767483.xyz
 
-
+  # 南瓜
   - DOMAIN-SUFFIX,nangua.de
 
+  # 1111
+  - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,emby.moe
-  - DOMAIN-SUFFIX,emby.wiki
   - DOMAIN-SUFFIX,xxlb.net
+  - DOMAIN-SUFFIX,niceduck.lol
+  
+  # lily
+  - DOMAIN-SUFFIX,emby.wiki
+
+  # hxd
+  # - DOMAIN-SUFFIX,hxd.as174.de
+  # - DOMAIN-SUFFIX,cdn.as174.de
+  # - DOMAIN-SUFFIX,cf.bili.rip
+  # - DOMAIN-SUFFIX,emby.as174.de
+  - DOMAIN-SUFFIX,bili.rip
+  - DOMAIN-SUFFIX,as174.de
+  - DOMAIN-SUFFIX,nvidia.rip
 
   # others
   - DOMAIN-SUFFIX,emby.nexitally.com
@@ -129,9 +137,7 @@ payload:
   - DOMAIN-SUFFIX,emby77.cf
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,embytv.cf
-  - DOMAIN-SUFFIX,zox.show
   - DOMAIN-SUFFIX,acemby.org
-  - DOMAIN-SUFFIX,bili.rip
   - DOMAIN-SUFFIX,ju.dog
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,ednovas.org
@@ -171,7 +177,6 @@ payload:
   - DOMAIN-SUFFIX,catlinks.co.uk
   - DOMAIN-SUFFIX,emby.ws
   - DOMAIN-SUFFIX,ohhhh.org
-  - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,9521732.xyz
   - DOMAIN-SUFFIX,misakaf.org
 
