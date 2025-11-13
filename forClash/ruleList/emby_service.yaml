@@ -56,6 +56,9 @@ payload:
   - DOMAIN-SUFFIX,as174.de
   - DOMAIN-SUFFIX,nvidia.rip
 
+  # UHD
+  - DOMAIN-SUFFIX,uhdnow.com
+
   # others
   - DOMAIN-SUFFIX,emby.nexitally.com
   - DOMAIN-SUFFIX,emby.cjpc.cc
