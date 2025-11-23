@@ -59,6 +59,10 @@ payload:
   # UHD
   - DOMAIN-SUFFIX,uhdnow.com
 
+  # ocean
+  - DOMAIN-SUFFIX,emby.oceancloud.asia
+  - DOMAIN-SUFFIX,nsfw.oceancloud.asia
+
   # others
   - DOMAIN-SUFFIX,emby.nexitally.com
   - DOMAIN-SUFFIX,emby.cjpc.cc
