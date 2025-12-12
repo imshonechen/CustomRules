@@ -59,6 +59,9 @@ payload:
   # UHD
   - DOMAIN-SUFFIX,uhdnow.com
 
+  # emos
+  - DOMAIN-SUFFIX,emos.lol
+
   # ocean
   - DOMAIN-SUFFIX,emby.oceancloud.asia
   - DOMAIN-SUFFIX,nsfw.oceancloud.asia

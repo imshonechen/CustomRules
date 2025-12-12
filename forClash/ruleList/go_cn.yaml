@@ -60,3 +60,11 @@ payload:
   - DOMAIN-SUFFIX,smtcdns.net
 
   - DOMAIN-SUFFIX,ping0.cc
+
+  - DOMAIN,emos.dolby.dpdns.org
+  - DOMAIN,emos.movier.ink
+  - DOMAIN,cmcc.movier.ink
+  - DOMAIN,emos.de5.net
+  - DOMAIN,direct.emos.lol
+  - DOMAIN,emos.huohuoaa.asia
+  - DOMAIN,emos.078899.xyz
