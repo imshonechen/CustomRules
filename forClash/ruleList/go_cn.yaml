@@ -30,15 +30,12 @@
 
 payload:
 
-  - DOMAIN,www.chongcong.cc
   - DOMAIN-SUFFIX,chongcong.cc
   - DOMAIN-SUFFIX,klimu.com
-
 
   # 其它
   # - DOMAIN-SUFFIX,hostloc.com
 
-  # 如果一个订阅都走代理，那么他家一定有问题，也许是CF的问题
 
   # - DOMAIN,subcdn.cos.cat
   # - DOMAIN,mojie.app
@@ -61,6 +58,7 @@ payload:
 
   - DOMAIN-SUFFIX,ping0.cc
 
+  # emos
   - DOMAIN,emos.dolby.dpdns.org
   - DOMAIN,emos.movier.ink
   - DOMAIN,cmcc.movier.ink
@@ -68,3 +66,11 @@ payload:
   - DOMAIN,direct.emos.lol
   - DOMAIN,emos.huohuoaa.asia
   - DOMAIN,emos.078899.xyz
+
+  - DOMAIN-SUFFIX,siliconflow.cn
+  
+  # uhd
+  - DOMAIN,smart.uhdnow.com
+  - DOMAIN,smart2.uhdnow.com
+  - DOMAIN,mlc.once.im
+  - DOMAIN,cfbest.uhdgo.com
