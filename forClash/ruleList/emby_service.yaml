@@ -65,6 +65,9 @@ payload:
   # ocean
   - DOMAIN-SUFFIX,emby.oceancloud.asia
   - DOMAIN-SUFFIX,nsfw.oceancloud.asia
+  
+  # hka-emby
+  - DOMAIN,hka-emby.aliz.work
 
   # others
   - DOMAIN-SUFFIX,emby.nexitally.com
