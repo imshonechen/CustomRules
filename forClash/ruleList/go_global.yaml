@@ -98,3 +98,4 @@ payload:
 
   # 华为云国际
   - DOMAIN,console-intl.huaweicloud.com
+  - DOMAIN,portal-intl.huaweicloud.com
