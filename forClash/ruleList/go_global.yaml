@@ -97,5 +97,6 @@ payload:
   - DOMAIN-SUFFIX,mitm.it
 
   # 华为云国际
+  - DOMAIN-KEYWORD,intl.huaweicloud.com
   - DOMAIN,console-intl.huaweicloud.com
   - DOMAIN,portal-intl.huaweicloud.com
