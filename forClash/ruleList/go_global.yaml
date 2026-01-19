@@ -93,7 +93,8 @@ payload:
   - DOMAIN-SUFFIX,tagxx.vip
   - DOMAIN-SUFFIX,bygcloud.com # 白月光
 
-
-
   # mitm
   - DOMAIN-SUFFIX,mitm.it
+
+  # 华为云国际
+  - DOMAIN,console-intl.huaweicloud.com
