@@ -74,3 +74,5 @@ payload:
   - DOMAIN,smart2.uhdnow.com
   - DOMAIN,mlc.once.im
   - DOMAIN,cfbest.uhdgo.com
+
+  - DOMAIN-SUFFIX,zhenyunpan.com
