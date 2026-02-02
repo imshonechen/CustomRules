@@ -26,53 +26,34 @@
 # - DOMAIN,
 # - DOMAIN-SUFFIX,
 # - DOMAIN-KEYWORD,
-# - IP-CIDR,
-
-payload:
-
-  - DOMAIN-SUFFIX,chongcong.cc
-  - DOMAIN-SUFFIX,klimu.com
-
-  # 其它
-  # - DOMAIN-SUFFIX,hostloc.com
-
-
-  # - DOMAIN,subcdn.cos.cat
-  # - DOMAIN,mojie.app
-  # - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
-  # - DOMAIN-SUFFIX,ykkk.best
-  # - DOMAIN-SUFFIX,ykkk.tech
-
-
-
-  - DOMAIN-SUFFIX,gifyu.com # 触摸春天用的图床
-
-  # - DOMAIN-SUFFIX,linux.do # L站走直连不太稳，有时候会卡
-  # - DOMAIN,api.deeplx.org # 翻译
-
-  - DOMAIN-SUFFIX,91xjr.com # 91小键人
-  - DOMAIN-SUFFIX,cdn.linux.do
-
-  # 国内很多平台用的该CDN，如腾讯视频、哔哩哔哩、抖音等
-  - DOMAIN-SUFFIX,smtcdns.net
-
-  - DOMAIN-SUFFIX,ping0.cc
-
-  # emos
-  - DOMAIN,emos.dolby.dpdns.org
-  - DOMAIN,emos.movier.ink
-  - DOMAIN,cmcc.movier.ink
-  - DOMAIN,emos.de5.net
-  - DOMAIN,direct.emos.lol
-  - DOMAIN,emos.huohuoaa.asia
-  - DOMAIN,emos.078899.xyz
-
-  - DOMAIN-SUFFIX,siliconflow.cn
-  
-  # uhd
-  - DOMAIN,smart.uhdnow.com
-  - DOMAIN,smart2.uhdnow.com
-  - DOMAIN,mlc.once.im
-  - DOMAIN,cfbest.uhdgo.com
-
-  - DOMAIN-SUFFIX,zhenyunpan.com
+# - IP-CIDR,  
+payload:  
+  - DOMAIN-SUFFIX,chongcong.cc  
+  - DOMAIN-SUFFIX,klimu.com  
+  # - DOMAIN-SUFFIX,hostloc.com  
+  # - DOMAIN,subcdn.cos.cat  
+  # - DOMAIN,mojie.app  
+  # - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com  
+  # - DOMAIN-SUFFIX,ykkk.best  
+  # - DOMAIN-SUFFIX,ykkk.tech  
+  - DOMAIN-SUFFIX,gifyu.com # 触摸春天用的图床  
+  # - DOMAIN-SUFFIX,linux.do # L站走直连不太稳，有时候会卡  
+  # - DOMAIN,api.deeplx.org # Linux.do翻译  
+  - DOMAIN-SUFFIX,cdn.linux.do  # Linux.do  
+  - DOMAIN-SUFFIX,91xjr.com # 91小键人  
+  - DOMAIN-SUFFIX,smtcdns.net  # 国内很多平台用的该CDN，如腾讯视频、哔哩哔哩、抖音等  
+  - DOMAIN-SUFFIX,ping0.cc  # ping0.cc  
+  - DOMAIN,emos.dolby.dpdns.org  # emos  
+  - DOMAIN,emos.movier.ink  # emos  
+  - DOMAIN,cmcc.movier.ink  # emos  
+  - DOMAIN,emos.de5.net  # emos  
+  - DOMAIN,direct.emos.lol  # emos  
+  - DOMAIN,emos.huohuoaa.asia  # emos  
+  - DOMAIN,emos.078899.xyz  # emos  
+  - DOMAIN-SUFFIX,siliconflow.cn  # 硅基流动  
+  - DOMAIN,smart.uhdnow.com  # UHD  
+  - DOMAIN,smart2.uhdnow.com  # UHD  
+  - DOMAIN,mlc.once.im  # UHD  
+  - DOMAIN,cfbest.uhdgo.com  # UHD  
+  - DOMAIN-SUFFIX,zhenyunpan.com  # CloudDrive2  
+  - DOMAIN,ums.sayqz.com  # TuneFreeNext  
