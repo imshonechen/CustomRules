@@ -27,12 +27,9 @@
 # - DOMAIN-SUFFIX,
 # - DOMAIN-KEYWORD,
 # - IP-CIDR,
-
 payload:
-
   - DOMAIN-SUFFIX,ygxz.in
-  - DOMAIN-SUFFIX,v2ex.com
-
+  - DOMAIN-SUFFIX,v2ex.com  # V2EX
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,yandex.net
@@ -42,61 +39,50 @@ payload:
   # - DOMAIN-SUFFIX,i3d.net
   # - DOMAIN-KEYWORD,speedtest.com
   # - DOMAIN-KEYWORD,speedtest.net
-
   # - DOMAIN-SUFFIX,azure.com
   # - DOMAIN-SUFFIX,azure.net
   # - DOMAIN-SUFFIX,microsoft.com
   # - DOMAIN-SUFFIX,microsoftonline.com
   # - DOMAIN-SUFFIX,live.com
   # - DOMAIN-SUFFIX,outlook.com
-
   - DOMAIN-SUFFIX,okjc.one
-  - DOMAIN,rutracker.ru
-  - DOMAIN-SUFFIX,qbittorrent.org
-
-
-  # 套CF的站点，直连太慢了。date: 250511
-  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN,rutracker.ru  #  rutracker.ru
+  - DOMAIN-SUFFIX,qbittorrent.org  # qbittorrent
+  - DOMAIN-SUFFIX,hostloc.com  # HOSTLOC
   - DOMAIN-SUFFIX,linux.do # L站 走直连不太稳，有时候会卡
   - DOMAIN,api.deeplx.org # L站 翻译
-
   - DOMAIN-SUFFIX,haitunt.org # 海豚
-  # 机场
-  - DOMAIN-SUFFIX,mojie.app
-  - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com
-  - DOMAIN-SUFFIX,ykkk.best
-  - DOMAIN-SUFFIX,ykkk.tech
-  - DOMAIN-SUFFIX,milkcat.io
-  - DOMAIN-SUFFIX,nexitally.com
-  - DOMAIN-SUFFIX,amytele.net
-  - DOMAIN-SUFFIX,immtel.com
-  - DOMAIN-SUFFIX,kuromis.com
-  - DOMAIN-SUFFIX,dlercloud.com
-  - DOMAIN-SUFFIX,flowercloud.net
-  - DOMAIN-SUFFIX,wd-gold.com # 西数
-  - DOMAIN-SUFFIX,halo.do # 光环
-  - DOMAIN-SUFFIX,linkcube.org # 绿叶
-  - DOMAIN-SUFFIX,shadowsocks.au # xtom
-  - DOMAIN-SUFFIX,jinglongyu.com # CTC
-  - DOMAIN-SUFFIX,synn.moe # SYN
-  - DOMAIN-SUFFIX,creamdata.net # 奶油
-  - DOMAIN-SUFFIX,paoluz.plus # 跑路云
-  - DOMAIN-SUFFIX,linkeless.com
+  - DOMAIN-SUFFIX,mojie.app  # 魔戒
+  - DOMAIN,mojie0201.xn--8stx8olrwkucjq3b.com  # 魔戒
+  - DOMAIN-SUFFIX,ykkk.best  # YKK
+  - DOMAIN-SUFFIX,ykkk.tech  # YKK
+  - DOMAIN-SUFFIX,milkcat.io  # 奶猫  
+  - DOMAIN-SUFFIX,nexitally.com  # 奶昔  
+  - DOMAIN-SUFFIX,amytele.net  # 按摩院  
+  - DOMAIN-SUFFIX,immtel.com  # IMM
+  - DOMAIN-SUFFIX,kuromis.com  # 库洛米  
+  - DOMAIN-SUFFIX,dlercloud.com  # 墙洞  
+  - DOMAIN-SUFFIX,flowercloud.net  # 花云
+  - DOMAIN-SUFFIX,wd-gold.com  # 西数
+  - DOMAIN-SUFFIX,halo.do  # 光环
+  - DOMAIN-SUFFIX,linkcube.org  # 绿叶
+  - DOMAIN-SUFFIX,shadowsocks.au  # xtom
+  - DOMAIN-SUFFIX,jinglongyu.com  # CTC
+  - DOMAIN-SUFFIX,synn.moe  # SYN
+  - DOMAIN-SUFFIX,creamdata.net  # 奶油
+  - DOMAIN-SUFFIX,paoluz.plus  # 跑路云
+  - DOMAIN-SUFFIX,linkeless.com  # linkeless
   - DOMAIN-SUFFIX,afun.la # 爱翻
   - DOMAIN-SUFFIX,垃圾机场.com # 薯条
-  - DOMAIN-SUFFIX,bkcloud.sbs
-  - DOMAIN-SUFFIX,y-too.com
-  - DOMAIN-SUFFIX,to-ytoo.xyz
+  - DOMAIN-SUFFIX,bkcloud.sbs  # BKCloud
+  - DOMAIN-SUFFIX,y-too.com  # 歪兔  
+  - DOMAIN-SUFFIX,to-ytoo.xyz  # 歪兔  
   - DOMAIN-SUFFIX,fanrr.net # 繁荣云
-  - DOMAIN-SUFFIX,ikuuu.one
-  - DOMAIN-SUFFIX,mesl.cloud
-  - DOMAIN-SUFFIX,tagxx.vip
-  - DOMAIN-SUFFIX,bygcloud.com # 白月光
-
-  # mitm
-  - DOMAIN-SUFFIX,mitm.it
-
-  # 华为云国际
-  - DOMAIN-KEYWORD,intl.huaweicloud.com
-  - DOMAIN,console-intl.huaweicloud.com
-  - DOMAIN,portal-intl.huaweicloud.com
+  - DOMAIN-SUFFIX,ikuuu.one  #IKUUU
+  - DOMAIN-SUFFIX,mesl.cloud  # MESL
+  - DOMAIN-SUFFIX,tagxx.vip  # TAG
+  - DOMAIN-SUFFIX,bygcloud.com  # 白月光  
+  - DOMAIN-SUFFIX,mitm.it  # mitm  
+  - DOMAIN-KEYWORD,intl.huaweicloud.com  # 华为云国际  
+  - DOMAIN,console-intl.huaweicloud.com  # 华为云国际  
+  - DOMAIN,portal-intl.huaweicloud.com  # 华为云国际  
