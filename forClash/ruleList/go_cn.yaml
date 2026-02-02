@@ -57,3 +57,5 @@ payload:
   - DOMAIN,cfbest.uhdgo.com  # UHD  
   - DOMAIN-SUFFIX,zhenyunpan.com  # CloudDrive2  
   - DOMAIN,ums.sayqz.com  # TuneFreeNext  
+  - DOMAIN-SUFFIX,sayqz.com  # TuneFreeNext    
+ 
