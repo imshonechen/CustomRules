@@ -58,4 +58,6 @@ payload:
   - DOMAIN-SUFFIX,zhenyunpan.com  # CloudDrive2  
   - DOMAIN,ums.sayqz.com  # TuneFreeNext  
   - DOMAIN-SUFFIX,sayqz.com  # TuneFreeNext    
+  - DOMAIN,downupdate.yz.tcdnos.com  # 腾讯游戏更新
+  - PROCESS-NAME,QQSpeedGLauncherPDL.exe  # QQ飞车更新
  
